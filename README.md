@@ -32,6 +32,11 @@ This project helped me strengthen my skills in Python and Pandas, especially in 
 
 ## Project Preview
 
-![Project Overview](Average Rating by Update Year.jpg)
-![Analysis Chart](Correlation Heatmap.jpg)
-![Dashboard View](Distribution of App Ratings by Type.jpg)
+### Dataset Overview
+![Dataset Overview](images/photo1.jpg)
+
+### Data Cleaning Process
+![Data Cleaning Process](images/photo2.jpg)
+
+### Final Analysis
+![Final Analysis](images/photo3.jpg)
