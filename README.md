@@ -31,3 +31,7 @@ The purpose of this project is to practice data analysis workflows, including da
 This project helped me strengthen my skills in Python and Pandas, especially in cleaning datasets, exploring patterns, and presenting results in a clear and structured way.
 
 ## Project Preview
+
+![Project Overview](images/project1.jpg)
+![Analysis Chart](images/project2.jpg)
+![Dashboard View](images/project3.jpg)
