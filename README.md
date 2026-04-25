@@ -32,6 +32,6 @@ This project helped me strengthen my skills in Python and Pandas, especially in 
 
 ## Project Preview
 
-![Project Overview](images/Average Rating by Update Year.jpg)
-![Analysis Chart](images/Correlation Heatmap.jpg)
-![Dashboard View](images/Distribution of App Ratings by Type.jpg)
+![Project Overview](Average Rating by Update Year.jpg)
+![Analysis Chart](Correlation Heatmap.jpg)
+![Dashboard View](Distribution of App Ratings by Type.jpg)
