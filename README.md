@@ -32,6 +32,6 @@ This project helped me strengthen my skills in Python and Pandas, especially in 
 
 ## Project Preview
 
-![Project Overview](C:\Users\depic\OneDrive\Desktop\sql learning\python\Project 3\images_jpg\Average Rating by Update Year.jpg)
-![Analysis Chart](C:\Users\depic\OneDrive\Desktop\sql learning\python\Project 3\images_jpg\Correlation Heatmap.jpg)
-![Dashboard View](C:\Users\depic\OneDrive\Desktop\sql learning\python\Project 3\images_jpg\Distribution of App Ratings by Type.jpg)
+![Project Overview](images/Average Rating by Update Year.jpg)
+![Analysis Chart](images/Correlation Heatmap.jpg)
+![Dashboard View](images/Distribution of App Ratings by Type.jpg)
