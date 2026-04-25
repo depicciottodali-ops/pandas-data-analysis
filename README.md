@@ -31,8 +31,5 @@ The purpose of this project is to practice data analysis workflows, including da
 This project helped me strengthen my skills in Python and Pandas, especially in cleaning datasets, exploring patterns, and presenting results in a clear and structured way.
 
 ## Project Preview
-![Image description](images/Average Rating by Update Year.jpeg)
-![Image description](images/Correlation Heatmap.jpg)
-![Image description](images/Distribution of App Ratings by Type.jpg
-
-
+![Image description](images_jpg/Average Rating by Update Year.jpg)
+‎
